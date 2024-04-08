@@ -30,9 +30,12 @@ header {
   }
 
   header .wrapper {
-    display: flex;
     place-items: flex-start;
     flex-wrap: wrap;
+  }
+
+  #books{
+    align-items: center;
   }
 }
 </style>
